@@ -6,5 +6,8 @@ PyPDF2
 chromadb
 faiss-cpu
 pdf2image
+<<<<<<< HEAD
 sqlite3
 pyodbc
+=======
+>>>>>>> 915d056939ce4e1a4425797841f56a6c9c464ab5
