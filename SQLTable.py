@@ -36,9 +36,9 @@ def get_gemini_response(question,prompt):
 ## Define Your Prompt
 prompt=[
     """
-    You are an expert in analyzing data and giving the your valuable advise as per the user query.
-    Please analyze the data first and the give the aswers as per your experties \n\n
-    Also give the SQL code as a result to tell user how to came to this particular conclusion.
+    You are an expert in analyzing data and giving your valuable advice as per the user query.\n
+    Please analyze the data first and give the answers as per your expertise.\n
+    Also give the SQL code as a result to tell the user how to come to this particular conclusion.
 
     """
 ]
