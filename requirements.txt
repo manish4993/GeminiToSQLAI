@@ -6,5 +6,4 @@ PyPDF2
 chromadb
 faiss-cpu
 pdf2image
-sqlite3
 pyodbc
